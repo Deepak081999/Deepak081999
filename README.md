@@ -1,4 +1,23 @@
 # 👋 Hi, I'm Deepak Saini
+<div align="center">
+
+<img src="./banner.png" width="100%">
+
+<br><br>
+
+<a href="https://github.com/Deepak081999/portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge">
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+</div>
 
 ### 💻 MERN Stack Developer | 🤖 AI & Python Explorer | 🧠 Problem Solver
 
