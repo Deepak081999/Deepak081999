@@ -1,71 +1,32 @@
-<div align="center">
+# 👋 Hi, I'm Deepak Saini
 
-<h1>👋 Hi, I'm Deepak Saini</h1>
+### 💻 MERN Stack Developer | 🤖 AI & Python Explorer | 🧠 Problem Solver
 
-<h3>
-💻 MERN Stack Developer | 🤖 Exploring AI & Python | 🧠 Problem Solver
-</h3>
+I’m a developer focused on building practical, user-friendly web applications and improving my problem-solving skills every day.
 
-<p>
-Building modern web applications and improving my problem-solving skills.
-</p>
-
-<br>
-
-<a href="https://github.com/Deepak081999">
-  <img src="https://img.shields.io/badge/GitHub-Deepak081999-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://github.com/Deepak081999/portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://twitter.com/">
-  <img src="https://img.shields.io/badge/Twitter%2FX-Follow-000000?style=for-the-badge&logo=x&logoColor=white">
-</a>
-
-<br><br>
-
-<a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</div>
-
----
-
-## 🚀 About Me
-
-- 💻 I'm focused on **MERN Stack Development**
-- ⚛️ Currently improving **React & JavaScript**
-- 🟢 Building applications with **Node.js, Express & MongoDB**
-- 🤖 Exploring **AI & Python**
-- 🧠 Practicing **DSA & Problem Solving**
-- 🚀 Interested in building real-world projects
+- 🚀 Primary focus: **MERN Stack Development**
+- 🤖 Exploring: **AI & Python**
+- 🧠 Practicing: **DSA & Problem Solving**
+- 🌱 Currently improving: **JavaScript, React, Node.js, Express & MongoDB**
+- 💼 Goal: Build production-ready applications and grow as a full-stack developer
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Backend
-
+### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Languages & Tools
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -75,43 +36,88 @@ Building modern web applications and improving my problem-solving skills.
 ## 🚀 Featured Projects
 
 ### 🏠 Property Pulse — MERN
+A full-stack property-focused web application built with the MERN stack.
 
-Full-stack property application built using MERN.
+**Tech:** React • Node.js • Express • MongoDB
 
-**React • Node.js • Express • MongoDB**
+🔗 [View Repository](https://github.com/Deepak081999/property-pulse-mern)
 
-[View Project](https://github.com/Deepak081999/property-pulse-mern)
+### 🛒 E-Commerce
+An e-commerce project focused on building practical full-stack functionality.
+
+🔗 [View Repository](https://github.com/Deepak081999/E-commerce)
 
 ### 🤖 AI Interface
+An experimental project exploring AI-oriented interfaces and web development.
 
-Exploring AI-based interfaces and modern web development.
-
-[View Project](https://github.com/Deepak081999/ai-interface)
+🔗 [View Repository](https://github.com/Deepak081999/ai-interface)
 
 ### 🧠 Data Structures & Algorithms
+A dedicated space for learning and practicing DSA and problem-solving concepts.
 
-DSA and problem-solving practice.
-
-[View Project](https://github.com/Deepak081999/DATA-STRUCTURES-ALGORITHMs)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Deepak081999&show_icons=true&theme=tokyonight&hide_border=true">
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Deepak081999&theme=tokyonight&hide_border=true">
-
-</div>
+🔗 [View Repository](https://github.com/Deepak081999/DATA-STRUCTURES-ALGORITHMs)
 
 ---
 
-<div align="center">
+## 📚 What I'm Working On
 
-### ⚡ Build. Learn. Solve. Repeat.
+```text
+MERN Development     ████████████████████░░  Focus
+JavaScript            ███████████████████░░░  Improving
+Problem Solving       ████████████████░░░░░░  Practicing
+AI + Python           ████████████░░░░░░░░░░  Exploring
+```
 
-</div>
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepak081999&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Deepak081999&theme=tokyonight&hide_border=true)
+
+---
+
+## 🧠 Problem Solving
+
+I’m continuously working on:
+
+- Data Structures & Algorithms
+- JavaScript problem solving
+- Logical thinking
+- Writing cleaner and more maintainable code
+- Building projects instead of only learning theory
+
+---
+
+## 🎯 My Development Journey
+
+```text
+HTML / CSS
+    ↓
+JavaScript
+    ↓
+React
+    ↓
+Node.js + Express
+    ↓
+MongoDB
+    ↓
+MERN Stack Projects
+    ↓
+AI + Python
+    ↓
+Production-ready Applications
+```
+
+---
+
+## 🤝 Let's Connect
+
+💼 **GitHub:** [Deepak081999](https://github.com/Deepak081999)
+
+⭐ If you find one of my projects useful, feel free to explore the repository and leave a star!
+
+---
+
+### ⚡ "Build. Learn. Solve. Repeat."
