@@ -11,6 +11,13 @@ I’m a developer focused on building practical, user-friendly web applications 
 - 💼 Goal: Build production-ready applications and grow as a full-stack developer
 
 ---
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Deepak+Saini;MERN+Stack+Developer;Building+Web+Applications;Exploring+AI,+Python;Problem+Solving+">
+
+<br/>
+
+</div>
 
 ## 🛠️ Tech Stack
 
