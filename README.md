@@ -108,6 +108,59 @@ Backend-focused e-commerce API project.
 `Data Structures` `Algorithms` `JavaScript Problems` `Logical Thinking`
 
 ---
+## 🧠 Problem Solving & Learning
+
+I’m continuously working on **problem solving, DSA, JavaScript and full-stack development** while building practical projects.
+
+- Data Structures & Algorithms
+- JavaScript problem solving
+- Logical thinking and programming fundamentals
+- MERN Stack development
+- Backend API development
+- AI & Python exploration
+- Building real-world projects
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://gh-readme-profile.vercel.app/api?username=Deepak081999&hide=forks,prs_merged,issues,contributed"
+    alt="Deepak Saini GitHub profile statistics"
+  >
+</p>
+
+<h2 align="center">Contribution Activity</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Deepak081999/github-snake/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Deepak081999/github-snake/output/github-snake.svg"
+    />
+    <img
+      alt="Deepak Saini GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Deepak081999/github-snake/output/github-snake.svg"
+    />
+  </picture>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  💻 <a href="https://github.com/Deepak081999">GitHub</a><br>
+  🌐 <a href="https://github.com/Deepak081999/portfolio">Portfolio</a><br>
+  💼 <a href="https://www.linkedin.com/in/deepak-saini-435095230/">LinkedIn</a>
+</p>
+
+> **Build. Learn. Solve. Repeat.**
 
 ## 📚 Currently Learning
 
