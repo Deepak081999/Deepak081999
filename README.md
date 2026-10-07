@@ -34,6 +34,28 @@ My current focus is on **MERN Stack development, JavaScript, backend development
 
 ---
 
+## 💼 Experience
+
+### Software Engineer Intern — Infatoz Technologies
+**MERN Stack · January 2025 – June 2025**
+
+- 🚀 Launched **3+ responsive React.js and Bootstrap interfaces**, improving UI rendering performance and increasing user engagement by **20%**.
+- 🔐 Engineered **5+ secure RESTful APIs** using Node.js and Express.js with JWT-based authentication, reducing unauthorised access incidents by **100%**.
+- 🔧 Maintained **100% Git commit coverage** across all features and participated in weekly code reviews to uphold code quality standards.
+- ⚛️ Delivered **10+ reusable React components** following modular architecture principles, reducing feature development time by **30%**.
+
+### Full Stack Developer — GeeksIT Data Solutions Pvt. Ltd.
+**October 2021 – October 2022**
+
+- 💻 Spearheaded **2–4 end-to-end web projects** using PHP (CodeIgniter) and jQuery, covering the full SDLC across **3+ client requirements** from gathering to deployment.
+- ⚙️ Optimized **18+ REST APIs** through query refactoring and indexing strategies, reducing average API response time by **25%**.
+- 🚀 Boosted overall site performance by **25%** and resolved **30+ critical bugs**, enhancing platform stability by **20%** and reducing downtime.
+- 🗄️ Architected and maintained **10+ MySQL database schemas**, ensuring data integrity and efficient querying for high-traffic modules.
+
+> 📚 **October 2022 – January 2025:** Dedicated to MCA postgraduate studies.
+
+---
+
 ## 🧩 Featured Projects
 
 ### 🏠 Property Pulse — MERN
