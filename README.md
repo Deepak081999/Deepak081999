@@ -156,7 +156,7 @@ I’m continuously working on **problem solving, DSA, JavaScript and full-stack 
 
 <p>
   💻 <a href="https://github.com/Deepak081999">GitHub</a><br>
-  🌐 <a href="my-portfolio-orpin-eight-53.vercel.app">Portfolio</a><br>
+  🌐 <a href="https://my-portfolio-orpin-eight-53.vercel.app/">Portfolio</a><br>
   💼 <a href="https://www.linkedin.com/in/deepak-saini-435095230/">LinkedIn</a>
 </p>
 
