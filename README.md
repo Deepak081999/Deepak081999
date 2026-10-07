@@ -1,142 +1,121 @@
-# 👋 Hi, I'm Deepak Saini
-<div align="center">
+# Hi, I'm Deepak Saini 👋
 
-<img src="./banner.png" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Deepak Saini — MERN Stack Developer, AI & Python Explorer and Problem Solver">
+</picture>
 
-<br><br>
+<p align="center">
+  <b>MERN Stack Developer · AI & Python Explorer · Problem Solver</b>
+</p>
 
-<a href="https://github.com/Deepak081999/portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge">
-</a>
+<p align="center">
+  💻 MERN Stack &nbsp;·&nbsp; ⚛️ React &nbsp;·&nbsp; 🟨 JavaScript
+  &nbsp;·&nbsp; 🟢 Node.js &nbsp;·&nbsp; 🚂 Express.js
+  &nbsp;·&nbsp; 🍃 MongoDB &nbsp;·&nbsp; 🐍 Python &nbsp;·&nbsp; 🧠 DSA
+</p>
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
+I build **practical web applications, full-stack projects and user-focused digital products**.
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-
-</div>
-
-### 💻 MERN Stack Developer | 🤖 AI & Python Explorer | 🧠 Problem Solver
-
-I’m a developer focused on building practical, user-friendly web applications and improving my problem-solving skills every day.
-
-- 🚀 Primary focus: **MERN Stack Development**
-- 🤖 Exploring: **AI & Python**
-- 🧠 Practicing: **DSA & Problem Solving**
-- 🌱 Currently improving: **JavaScript, React, Node.js, Express & MongoDB**
-- 💼 Goal: Build production-ready applications and grow as a full-stack developer
+My current focus is on **MERN Stack development, JavaScript, backend development, AI/Python exploration and problem solving**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I Build
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ⚛️ **MERN applications** — React, Node.js, Express.js and MongoDB
+- 💻 **Full-stack web applications** — frontend + backend development
+- 🟨 **JavaScript applications** — modern JavaScript and React projects
+- 🟢 **Backend APIs** — Node.js and Express.js
+- 🐍 **Python / AI exploration** — learning and experimenting with AI-related technologies
+- 🧠 **Problem Solving** — DSA, logical thinking and programming practice
+- 📱 **Responsive interfaces** — practical and user-friendly web experiences
 
 ---
 
-## 🚀 Featured Projects
+## 🧩 Featured Projects
 
 ### 🏠 Property Pulse — MERN
-A full-stack property-focused web application built with the MERN stack.
 
-**Tech:** React • Node.js • Express • MongoDB
+A full-stack property-focused web application built using the MERN stack.
 
-🔗 [View Repository](https://github.com/Deepak081999/property-pulse-mern)
+- React
+- Node.js
+- Express.js
+- MongoDB
 
-### 🛒 E-Commerce
-An e-commerce project focused on building practical full-stack functionality.
+[GitHub Repository](https://github.com/Deepak081999/property-pulse-mern)
 
-🔗 [View Repository](https://github.com/Deepak081999/E-commerce)
+---
+
+### 🛒 Artisan Market
+
+A marketplace-style project focused on handmade and vintage products.
+
+- Frontend development
+- Marketplace UI
+- Responsive design
+
+[GitHub Repository](https://github.com/Deepak081999/Artisan-market)
+
+---
 
 ### 🤖 AI Interface
-An experimental project exploring AI-oriented interfaces and web development.
 
-🔗 [View Repository](https://github.com/Deepak081999/ai-interface)
+An experimental project exploring AI-oriented interfaces and modern web development.
 
-### 🧠 Data Structures & Algorithms
-A dedicated space for learning and practicing DSA and problem-solving concepts.
-
-🔗 [View Repository](https://github.com/Deepak081999/DATA-STRUCTURES-ALGORITHMs)
+[GitHub Repository](https://github.com/Deepak081999/ai-interface)
 
 ---
 
-## 📚 What I'm Working On
+### 🛍️ E-Commerce API
+
+Backend-focused e-commerce API project.
+
+- API development
+- Backend architecture
+- E-commerce functionality
+
+[GitHub Repository](https://github.com/Deepak081999/ecommerce-api)
+
+---
+
+## 🛠️ Engineering Stack
+
+### ⚛️ Frontend
+
+`HTML5` `CSS3` `JavaScript` `React` `Responsive Design`
+
+### ⚙️ Backend
+
+`Node.js` `Express.js` `REST APIs`
+
+### 🗄️ Database
+
+`MongoDB` `SQL`
+
+### 🐍 Languages
+
+`JavaScript` `Python`
+
+### 🔧 Tools
+
+`Git` `GitHub` `VS Code`
+
+### 🧠 Problem Solving
+
+`Data Structures` `Algorithms` `JavaScript Problems` `Logical Thinking`
+
+---
+
+## 📚 Currently Learning
 
 ```text
-MERN Development     ████████████████████░░  Focus
-JavaScript            ███████████████████░░░  Improving
-Problem Solving       ████████████████░░░░░░  Practicing
-AI + Python           ████████████░░░░░░░░░░  Exploring
-```
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepak081999&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Deepak081999&theme=tokyonight&hide_border=true)
-
----
-
-## 🧠 Problem Solving
-
-I’m continuously working on:
-
-- Data Structures & Algorithms
-- JavaScript problem solving
-- Logical thinking
-- Writing cleaner and more maintainable code
-- Building projects instead of only learning theory
-
----
-
-## 🎯 My Development Journey
-
-```text
-HTML / CSS
-    ↓
-JavaScript
-    ↓
-React
-    ↓
-Node.js + Express
-    ↓
-MongoDB
-    ↓
-MERN Stack Projects
-    ↓
-AI + Python
-    ↓
-Production-ready Applications
-```
-
----
-
-## 🤝 Let's Connect
-
-💼 **GitHub:** [Deepak081999](https://github.com/Deepak081999)
-
-⭐ If you find one of my projects useful, feel free to explore the repository and leave a star!
-
----
-
-### ⚡ "Build. Learn. Solve. Repeat."
+MERN Stack Development    ████████████████████░░  Focus
+JavaScript                ███████████████████░░░  Improving
+React                     ██████████████████░░░░  Improving
+Node.js + Express         █████████████████░░░░░  Improving
+MongoDB                   ████████████████░░░░░░  Improving
+DSA & Problem Solving     ███████████████░░░░░░░  Practicing
+AI + Python               ████████████░░░░░░░░░░  Exploring
