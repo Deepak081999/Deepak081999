@@ -13,9 +13,6 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -24,23 +21,9 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Publish Snake
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git fetch origin output || true
-
-          if git show-ref --verify --quiet refs/remotes/origin/output; then
-            git checkout output
-            git rm -rf . || true
-          else
-            git checkout --orphan output
-            git rm -rf . || true
-          fi
-
-          cp -r dist/* .
-
-          git add .
-          git commit -m "Update GitHub contribution snake" || true
-          git push origin output --force
+      - name: Deploy Snake
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
